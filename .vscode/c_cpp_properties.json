@@ -1,0 +1,16 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "C:\\Users\\wdpfe\\AppData\\Local\\Arduino15\\packages\\ATTinyCore\\hardware\\avr\\1.3.3\\**",
+                "D:\\Documents\\Arduino\\libraries\\**",
+                "D:\\Documents\\Arduino\\libraries\\Atlas_gravity\\**",
+                "D:\\Documents\\Arduino\\libraries\\LiquidCrystal_I2C\\**"
+            ],
+            "forcedInclude": [],
+            "intelliSenseMode": "msvc-x64"
+        }
+    ],
+    "version": 4
+}
