@@ -5,7 +5,6 @@
 #include "LiquidCrystal_I2C.h"
 
 
-
 //define Gravity pH meter parameters
 Gravity_pH pH = Gravity_pH(A5);
 
